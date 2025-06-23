@@ -565,3 +565,5 @@ SELECT prov.id, prov.nombre, SUM(dp.cantidad * dp.precio) AS ingreso_total
 
 ENLACE DE UN DRIVE CON UN WORD PARA UNA FORMA VISUAL 
 https://drive.google.com/drive/folders/1r_ZoKEnTAABYrYaI-1LOXMolVWzYbFmB?usp=sharing
+
+INGRESAR AL README PARA MEJOR VISUALIZACION DESDE EL REPOSITORIO NO SE VE BIEN
